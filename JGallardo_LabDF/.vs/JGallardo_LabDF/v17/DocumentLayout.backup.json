@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Progra IV\\JGallardo_LabDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E01AE1D-B070-4D3E-B511-03B7FBAEC9D3}|JGallardo_LabDF\\JGallardo_LabDF.csproj|c:\\users\\dell\\desktop\\progra iv\\jgallardo_labdf\\jgallardo_labdf\\controllers\\artistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E01AE1D-B070-4D3E-B511-03B7FBAEC9D3}|JGallardo_LabDF\\JGallardo_LabDF.csproj|solutionrelative:jgallardo_labdf\\controllers\\artistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E01AE1D-B070-4D3E-B511-03B7FBAEC9D3}|JGallardo_LabDF\\JGallardo_LabDF.csproj|c:\\users\\dell\\desktop\\progra iv\\jgallardo_labdf\\jgallardo_labdf\\models\\albums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E01AE1D-B070-4D3E-B511-03B7FBAEC9D3}|JGallardo_LabDF\\JGallardo_LabDF.csproj|solutionrelative:jgallardo_labdf\\models\\albums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E01AE1D-B070-4D3E-B511-03B7FBAEC9D3}|JGallardo_LabDF\\JGallardo_LabDF.csproj|c:\\users\\dell\\desktop\\progra iv\\jgallardo_labdf\\jgallardo_labdf\\models\\jgmodel1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3E01AE1D-B070-4D3E-B511-03B7FBAEC9D3}|JGallardo_LabDF\\JGallardo_LabDF.csproj|solutionrelative:jgallardo_labdf\\models\\jgmodel1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtistasController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Progra IV\\JGallardo_LabDF\\JGallardo_LabDF\\Controllers\\ArtistasController.cs",
+              "RelativeDocumentMoniker": "JGallardo_LabDF\\Controllers\\ArtistasController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Progra IV\\JGallardo_LabDF\\JGallardo_LabDF\\Controllers\\ArtistasController.cs",
+              "RelativeToolTip": "JGallardo_LabDF\\Controllers\\ArtistasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:52:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Albums.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Progra IV\\JGallardo_LabDF\\JGallardo_LabDF\\Models\\Albums.cs",
+              "RelativeDocumentMoniker": "JGallardo_LabDF\\Models\\Albums.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Progra IV\\JGallardo_LabDF\\JGallardo_LabDF\\Models\\Albums.cs",
+              "RelativeToolTip": "JGallardo_LabDF\\Models\\Albums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:49:49.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JGModel1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Progra IV\\JGallardo_LabDF\\JGallardo_LabDF\\Models\\JGModel1.edmx",
+              "RelativeDocumentMoniker": "JGallardo_LabDF\\Models\\JGModel1.edmx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Progra IV\\JGallardo_LabDF\\JGallardo_LabDF\\Models\\JGModel1.edmx [Diagram1]",
+              "RelativeToolTip": "JGallardo_LabDF\\Models\\JGModel1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-18T12:47:55.782Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
